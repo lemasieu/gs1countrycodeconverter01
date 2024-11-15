@@ -1,0 +1,600 @@
+[
+  {
+    "prefix": "0000000",
+    "description": "Được sử dụng để cấp Số lưu hành hạn chế trong một công ty"
+  },
+  {
+    "prefix": [
+      "0000001", "0000002", "0000003", "0000004", "0000005",
+      "0000006", "0000007", "0000008", "0000009", "0000010",
+      "0000011", "0000012", "0000013", "0000014", "0000015",
+      "0000016", "0000017", "0000018", "0000019", "0000020",
+      "0000021", "0000022", "0000023", "0000024", "0000025",
+      "0000026", "0000027", "0000028", "0000029", "0000030",
+      "0000031", "0000032", "0000033", "0000034", "0000035",
+      "0000036", "0000037", "0000038", "0000039", "0000040",
+      "0000041", "0000042", "0000043", "0000044", "0000045",
+      "0000046", "0000047", "0000048", "0000049", "0000050",
+      "0000051", "0000052", "0000053", "0000054", "0000055",
+      "0000056", "0000057", "0000058", "0000059", "0000060",
+      "0000061", "0000062", "0000063", "0000064", "0000065",
+      "0000066", "0000067", "0000068", "0000069", "0000070",
+      "0000071", "0000072", "0000073", "0000074", "0000075",
+      "0000076", "0000077", "0000078", "0000079", "0000080",
+      "0000081", "0000082", "0000083", "0000084", "0000085",
+      "0000086", "0000087", "0000088", "0000089", "0000090",
+      "0000091", "0000092", "0000093", "0000094", "0000095",
+      "0000096", "0000097", "0000098", "0000099"
+    ],
+    "description": "Không sử dụng để tránh va chạm với GTIN-8"
+  },
+  {
+    "prefix": [
+      "00001", "00002", "00003", "00004", "00005",
+      "00006", "00007", "00008", "00009", "0001",
+      "0002", "0003", "0004", "0005", "0006",
+      "0007", "0008", "0009", "001", "002",
+      "003", "004", "005", "006", "007",
+      "008", "009", "010", "011", "012",
+      "013", "014", "015", "016", "017",
+      "018", "019"
+    ],
+    "description": "Mỹ/ Canada"
+  },
+  {
+    "prefix": ["020", "021", "022", "023", "024", "025", "026", "027", "028", "029"],
+    "description": "Được sử dụng để cấp Số lưu hành hạn chế trong một khu vực địa lý (MO được xác định)"
+  },
+  {
+    "prefix": ["030", "031", "032", "033", "034", "035", "036", "037", "038", "039"],
+    "description": "Mỹ"
+  },
+  {
+    "prefix": ["040", "041", "042", "043", "044", "045", "046", "047", "048", "049"],
+    "description": "Được sử dụng để cấp Số lưu hành hạn chế trong một công ty"
+  },
+  {
+    "prefix": ["050", "051", "052", "053", "054", "055", "056", "057", "058", "059"],
+    "description": "Mỹ được dành riêng cho mục đích sử dụng trong tương lai"
+  },
+  {
+    "prefix": ["060", "061", "062", "063", "064", "065", "066", "067", "068", "069", "070", "071", "072", "073", "074", "075", "076", "077", "078", "079", "080", "081", "082", "083", "084", "085", "086", "087", "088", "089", "090", "091", "092", "093", "094", "095", "096", "097", "098", "099", "100", "101", "102", "103", "104", "105", "106", "107", "108", "109", "110", "111", "112", "113", "114", "115", "116", "117", "118", "119", "120", "121", "122", "123", "124", "125", "126", "127", "128", "129", "130", "131", "132", "133", "134", "135", "136", "137", "138"],
+    "description": "Mỹ"
+  },
+  {
+    "prefix": ["200", "201", "202", "203", "204", "205", "206", "207", "208", "209", "210", "211", "212", "213", "214", "215", "216", "217", "218", "219", "220", "221", "222", "223", "224", "225", "226", "227", "228", "229"],
+    "description": "Được sử dụng để cấp Số lưu hành hạn chế trong một khu vực địa lý (MO được xác định)"
+  },
+  {
+    "prefix": ["300", "301", "302", "303", "304", "305", "306", "307", "308", "309", "310", "311", "312", "313", "314", "315", "316", "317", "318", "319"],
+    "description": "Pháp"
+  },
+  {
+    "prefix": "380",
+    "description": "Bulgaria"
+  },
+  {
+    "prefix": "383",
+    "description": "Slovenia"
+  },
+  {
+    "prefix": "385",
+    "description": "Croatia"
+  },
+  {
+    "prefix": "387",
+    "description": "Bosnia & Herzegovina"
+  },
+  {
+    "prefix": "389",
+    "description": "Montenegro"
+  },
+  {
+    "prefix": ["400", "401", "402", "403", "404", "405", "406", "407", "408", "409", "410", "411", "412", "413", "414", "415", "416", "417", "418", "419", "420", "421", "422", "423", "424", "425", "426", "427", "428", "429", "430", "431", "432", "433", "434", "435", "436", "437", "438", "439"],
+    "description": "Đức"
+  },
+  {
+    "prefix": ["450", "451", "452", "453", "454", "455", "456", "457", "458", "459", "490", "491", "492", "493", "494", "495", "496", "497", "498", "499"],
+    "description": "Nhật Bản"
+  },
+  {
+    "prefix": ["460", "461", "462", "463", "464", "465", "466", "467", "468", "469"],
+    "description": "Nga"
+  },
+  {
+    "prefix": "470",
+    "description": "Kyrgyzstan"
+  },
+  {
+    "prefix": "471",
+    "description": "Đài Loan"
+  },
+  {
+    "prefix": "474",
+    "description": "Estonia"
+  },
+  {
+    "prefix": "475",
+    "description": "Latvia"
+  },
+  {
+    "prefix": "476",
+    "description": "Azerbaijan"
+  },
+  {
+    "prefix": "477",
+    "description": "Lithuania"
+  },
+  {
+    "prefix": "478",
+    "description": "Uzbekistan"
+  },
+  {
+    "prefix": "479",
+    "description": "Sri Lanka"
+  },
+  {
+    "prefix": "480",
+    "description": "Philippines"
+  },
+  {
+    "prefix": "481",
+    "description": "Belarus"
+  },
+  {
+    "prefix": "482",
+    "description": "Ukraine"
+  },
+  {
+    "prefix": "483",
+    "description": "Turkmenistan"
+  },
+  {
+    "prefix": "484",
+    "description": "Moldova"
+  },
+  {
+    "prefix": "485",
+    "description": "Armenia"
+  },
+  {
+    "prefix": "486",
+    "description": "Georgia"
+  },
+  {
+    "prefix": "487",
+    "description": "Kazakhstan"
+  },
+  {
+    "prefix": "488",
+    "description": "Tajikistan"
+  },
+  {
+    "prefix": "489",
+    "description": "Hồng Kông"
+  },
+  {
+    "prefix": ["490", "491", "492", "493", "494", "495", "496", "497", "498", "499"],
+    "description": "Nhật Bản"
+  },
+  {
+    "prefix": ["500", "501", "502", "503", "504", "505", "506", "507", "508", "509"],
+    "description": "Anh"
+  },
+  {
+    "prefix": ["520", "521"],
+    "description": "Hy Lạp"
+  },
+  {
+    "prefix": "528",
+    "description": "Lebanon"
+  },
+  {
+    "prefix": "529",
+    "description": "Cyprus"
+  },
+  {
+    "prefix": "530",
+    "description": "Albania"
+  },
+  {
+    "prefix": "531",
+    "description": "Macedonia"
+  },
+  {
+    "prefix": "535",
+    "description": "Malta"
+  },
+  {
+    "prefix": "539",
+    "description": "Ireland"
+  },
+  {
+    "prefix": ["540", "541", "542", "543", "544", "545", "546", "547", "548", "549"],
+    "description": "Bỉ & Luxembourg"
+  },
+  {
+    "prefix": "560",
+    "description": "Bồ Đào Nha"
+  },
+  {
+    "prefix": "569",
+    "description": "Iceland"
+  },
+  {
+    "prefix": ["570", "571", "572", "573", "574", "575", "576", "577", "578", "579"],
+    "description": "Đan Mạch"
+  },
+  {
+    "prefix": "590",
+    "description": "Ba Lan"
+  },
+  {
+    "prefix": "594",
+    "description": "Romania"
+  },
+  {
+    "prefix": "599",
+    "description": "Hungary"
+  },
+  {
+    "prefix": ["600", "601"],
+    "description": "Nam Phi"
+  },
+  {
+    "prefix": "603",
+    "description": "Ghana"
+  },
+  {
+    "prefix": "604",
+    "description": "Senegal"
+  },
+  {
+    "prefix": "605",
+    "description": "Uganda"
+  },
+  {
+    "prefix": "606",
+    "description": "Angola"
+  },
+  {
+    "prefix": "607",
+    "description": "Oman"
+  },
+  {
+    "prefix": "608",
+    "description": "Bahrain"
+  },
+  {
+    "prefix": "609",
+    "description": "Mauritius"
+  },
+  {
+    "prefix": "610",
+    "description": "Quản lý bởi GS1 Global Office cho tương lai"
+  },
+  {
+    "prefix": "611",
+    "description": "Morocco"
+  },
+  {
+    "prefix": "613",
+    "description": "Algeria"
+  },
+  {
+    "prefix": "614",
+    "description": "Quản lý bởi GS1 Global Office cho tương lai"
+  },
+  {
+    "prefix": "615",
+    "description": "Nigeria"
+  },
+  {
+    "prefix": "616",
+    "description": "Kenya"
+  },
+  {
+    "prefix": "617",
+    "description": "Cameroon"
+  },
+  {
+    "prefix": "618",
+    "description": "Côte d'Ivoire"
+  },
+  {
+    "prefix": "619",
+    "description": "Tunisia"
+  },
+  {
+    "prefix": "620",
+    "description": "Tanzania"
+  },
+  {
+    "prefix": "621",
+    "description": "Syria"
+  },
+  {
+    "prefix": "622",
+    "description": "Ai Cập"
+  },
+  {
+    "prefix": "623",
+    "description": "Quản lý bởi GS1 Global Office cho tương lai"
+  },
+  {
+    "prefix": "624",
+    "description": "Libya"
+  },
+  {
+    "prefix": "625",
+    "description": "Jordan"
+  },
+  {
+    "prefix": "626",
+    "description": "Iran"
+  },
+  {
+    "prefix": "627",
+    "description": "Kuwait"
+  },
+  {
+    "prefix": "628",
+    "description": "Ả Rập Xê Út"
+  },
+  {
+    "prefix": "629",
+    "description": "UAE"
+  },
+  {
+    "prefix": "630",
+    "description": "Qatar"
+  },
+  {
+    "prefix": "631",
+    "description": "Namibia"
+  },
+  {
+    "prefix": "632",
+    "description": "Rwanda"
+  },
+  {
+    "prefix": ["640", "641", "642", "643", "644", "645", "646", "647", "648", "649"],
+    "description": "Phần Lan"
+  },
+  {
+    "prefix": ["680", "681", "690", "691", "692", "693", "694", "695", "696", "697", "698", "699"],
+    "description": "Trung Quốc"
+  },
+  {
+    "prefix": ["700", "701", "702", "703", "704", "705", "706", "707", "708", "709"],
+    "description": "Na Uy"
+  },
+  {
+    "prefix": "729",
+    "description": "Israel"
+  },
+  {
+    "prefix": ["730", "731", "732", "733", "734", "735", "736", "737", "738", "739"],
+    "description": "Thụy Điển"
+  },
+  {
+    "prefix": "740",
+    "description": "Guatemala"
+  },
+  {
+    "prefix": "741",
+    "description": "El Salvador"
+  },
+  {
+    "prefix": "742",
+    "description": "Honduras"
+  },
+  {
+    "prefix": "743",
+    "description": "Nicaragua"
+  },
+  {
+    "prefix": "744",
+    "description": "Costa Rica"
+  },
+  {
+    "prefix": "745",
+    "description": "Panama"
+  },
+  {
+    "prefix": "746",
+    "description": "Cộng hòa Dominicana"
+  },
+  {
+    "prefix": "750",
+    "description": "Mexico"
+  },
+  {
+    "prefix": ["754", "755"],
+    "description": "Canada"
+  },
+  {
+    "prefix": "758",
+    "description": "Quản lý bởi GS1 Global Office cho tương lai"
+  },
+  {
+    "prefix": "759",
+    "description": "Venezuela"
+  },
+  {
+    "prefix": ["760", "761", "762", "763", "764", "765", "766", "767", "768", "769"],
+    "description": "Thụy Sĩ"
+  },
+  {
+    "prefix": ["770", "771"],
+    "description": "Colombia"
+  },
+  {
+    "prefix": "773",
+    "description": "Uruguay"
+  },
+  {
+    "prefix": "775",
+    "description": "Peru"
+  },
+  {
+    "prefix": "777",
+    "description": "Bolivia"
+  },
+  {
+    "prefix": ["778", "779"],
+    "description": "Argentina"
+  },
+  {
+    "prefix": "780",
+    "description": "Chile"
+  },
+  {
+    "prefix": "784",
+    "description": "Paraguay"
+  },
+  {
+    "prefix": "786",
+    "description": "Ecuador"
+  },
+  {
+    "prefix": ["789", "790"],
+    "description": "Brasil"
+  },
+  {
+    "prefix": ["800", "801", "802", "803", "804", "805", "806", "807", "808", "809", "810", "811", "812", "813", "814", "815", "816", "817", "818", "819", "820", "821", "822", "823", "824", "825", "826", "827", "828", "829", "830", "831", "832", "833", "834", "835", "836", "837", "838", "839"],
+    "description": "Italy"
+  },
+  {
+    "prefix": ["840", "841", "842", "843", "844", "845", "846", "847", "848", "849"],
+    "description": "Tây Ban Nha"
+  },
+  {
+    "prefix": "850",
+    "description": "Cuba"
+  },
+  {
+    "prefix": "858",
+    "description": "Slovakia"
+  },
+  {
+    "prefix": "859",
+    "description": "Czech"
+  },
+  {
+    "prefix": "860",
+    "description": "Serbia"
+  },
+  {
+    "prefix": "865",
+    "description": "Mông Cổ"
+  },
+  {
+    "prefix": "867",
+    "description": "Triều Tiên"
+  },
+  {
+    "prefix": ["868", "869"],
+    "description": "Thổ Nhĩ Kỳ"
+  },
+  {
+    "prefix": ["870", "871", "872", "873", "874", "875", "876", "877", "878", "879"],
+    "description": "Hà Lan"
+  },
+  {
+    "prefix": ["880", "881"],
+    "description": "Hàn Quốc"
+  },
+  {
+    "prefix": "883",
+    "description": "Myanmar"
+  },
+  {
+    "prefix": "884",
+    "description": "Campuchia"
+  },
+  {
+    "prefix": "885",
+    "description": "Thái Lan"
+  },
+  {
+    "prefix": "888",
+    "description": "Singapore"
+  },
+  {
+    "prefix": "890",
+    "description": "Ấn Độ"
+  },
+  {
+    "prefix": "893",
+    "description": "Việt Nam"
+  },
+  {
+    "prefix": "894",
+    "description": "Quản lý bởi GS1 Global Office cho tương lai"
+  },
+  {
+    "prefix": "896",
+    "description": "Pakistan"
+  },
+  {
+    "prefix": "899",
+    "description": "Indonesia"
+  },
+  {
+    "prefix": ["900", "901", "902", "903", "904", "905", "906", "907", "908", "909", "910", "911", "912", "913", "914", "915", "916", "917", "918", "919"],
+    "description": "Áo"
+  },
+  {
+    "prefix": ["930", "931", "932", "933", "934", "935", "936", "937", "938", "939"],
+    "description": "Úc"
+  },
+  {
+    "prefix": ["940", "941", "942", "943", "944", "945", "946", "947", "948", "949"],
+    "description": "New Zealand"
+  },
+  {
+    "prefix": "950",
+    "description": "Global Office"
+  },
+  {
+    "prefix": "951",
+    "description": "Số Quản lí chung EPC General Identifier (GID)"
+  },
+  {
+    "prefix": "952",
+    "description": "Được sử dụng cho các buổi trình diễn và ví dụ của hệ thống"
+  },
+  {
+    "prefix": "955",
+    "description": "Malaysia"
+  },
+  {
+    "prefix": "958",
+    "description": "Macau"
+  },
+  {
+    "prefix": ["960", "961", "962", "963", "964", "965", "966", "967", "968", "969"],
+    "description": "Global Office - GTIN-8"
+  },
+  {
+    "prefix": "977",
+    "description": "Các ấn phẩm định kỳ (ISSN)"
+  },
+  {
+    "prefix": ["978", "979"],
+    "description": "Bookland (ISBN)"
+  },
+  {
+    "prefix": "980",
+    "description": "Biên lai hoàn tiền"
+  },
+  {
+    "prefix": ["981", "982", "983"],
+    "description": "Nhận diện coupon cho các khu vực tiền tệ chung"
+  },
+  {
+    "prefix": "99",
+    "description": "Nhận diện coupon"
+  }
+]
